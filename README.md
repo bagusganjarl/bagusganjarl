@@ -1,4 +1,4 @@
-# **Hello!**👋
+# 👋**Hello!**
 ## I’m **Bagus Ganjar Lugina** just started my journey in data
 - 👀 I’m interested in **Data Analytics**, **Machine Learning** and **Project Management**
 - 🌱 I’m currently learning in depth of **Data Science**
