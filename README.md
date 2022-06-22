@@ -6,7 +6,7 @@
 - 📫 How to reach me:
   - :iphone: +628 1222 6920 75 
   - :email: bagusganjarl@gmail.com
-  - :link: http://linkedin.com/in/bagusganjar
+  - :link: [LinkedIn](http://www.linkedin.com/in/bagusganjar)
 
 <!---
 bagusganjarl/bagusganjarl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
