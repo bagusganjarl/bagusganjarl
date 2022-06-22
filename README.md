@@ -1,9 +1,9 @@
 # 👋**Hello!**
-## I’m **Bagus Ganjar Lugina** just started my journey in data
-- 👀 I’m interested in **Data Analytics**, **Machine Learning** and **Project Management**
-- 🌱 I’m currently learning in depth of **Data Science**
-- 💞️ I’m looking to collaborate on **Data Analysis** or **Data Science Project**
-- 📫 How to reach me:
+## I’m **Bagus Ganjar Lugina** 
+👀 I’m interested in **Data Analytics**, **Machine Learning** and **Project Management**
+🌱 I’m currently learning in depth of **Data Science**
+💞️ I’m looking to collaborate on **Data Analysis** or **Data Science Project**
+📫 How to reach me:
   - :iphone: +62 812 2269 2075 
   - :email: bagusganjarl@gmail.com
   - :link: [LinkedIn](http://www.linkedin.com/in/bagusganjar)
