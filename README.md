@@ -4,7 +4,7 @@
 🌱 I’m currently learning in depth of **Data Science** <br>
 💞️ I’m looking to collaborate on **Data Analysis** or **Data Science Project** <br>
 📫 Reach me on:
-- :iphone: +62 812 2269 2075 
+- :iphone: +62 8122 2692 075 
 - :email: bagusganjarl@gmail.com
 - :link: [LinkedIn](http://www.linkedin.com/in/bagusganjar)
 
